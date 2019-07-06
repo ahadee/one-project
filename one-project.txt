@@ -2,3 +2,5 @@ one-project
 - creating HTML
 - Adding CSS
 - Adding Java Script
+- Creating PHP for the login page
+- Fixing the database
